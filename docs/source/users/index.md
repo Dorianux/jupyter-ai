@@ -29,7 +29,7 @@ You can use the `jupyter_ai_magics` package without JupyterLab, but you will nee
 Jupyter AI supports a wide range of model providers and models. To use Jupyter AI, you will need to 
 install the corresponding Python package and configure the API key (or other authenication credentials) for the provider. 
 You can find the environment variables you need to set, and the Python packages you need, in
-[`packages/jupyter-ai/jupyter_ai/providers.py`](https://github.com/jupyterlab/jupyter-ai/blob/main/packages/jupyter-ai/jupyter_ai/providers.py).
+[`packages/jupyter-ai-magics/jupyter_ai_magics/providers.py`](https://github.com/jupyterlab/jupyter-ai/blob/main/packages/jupyter-ai-magics/jupyter_ai_magics/providers.py).
 
 Jupyter AI supports the following model providers:
 
